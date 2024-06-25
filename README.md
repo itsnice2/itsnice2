@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsnice2
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: just e-mail me, and hope i read it :D
+- 👀 I’m interested in programming and DevOps
+- 🌱 I’m currently learning databases, c# and python ...
+- 📫 How to reach me:
+  - just e-mail me, and hope i read it :D
